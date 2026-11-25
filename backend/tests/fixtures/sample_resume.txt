@@ -1,0 +1,13 @@
+Aarav Mehta
+aarav@example.test
+Education
+BTech Computer Science, Meridian Institute, graduating 2027
+Skills
+Python, SQL, pandas, scikit-learn, Git, PyTorch
+Basic Docker knowledge
+Projects
+Built a Python sentiment classification project using pandas and scikit-learn.
+Experience
+Campus research intern: prepared datasets with Python.
+Certifications
+Introduction to Machine Learning, 2026

@@ -1,0 +1,10 @@
+**/node_modules/
+**/.next/
+.venv/
+.cache/
+.local/
+docs/.render/
+**/package-lock.json
+**/next-env.d.ts
+**/.env
+**/.env.local

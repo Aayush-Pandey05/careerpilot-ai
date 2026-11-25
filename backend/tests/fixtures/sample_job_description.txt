@@ -1,0 +1,8 @@
+Title: AI/ML Intern
+Company: Northstar Labs
+Required skills:
+Python, SQL, pandas, scikit-learn, Git
+Preferred skills:
+Docker, AWS, TensorFlow
+Responsibilities:
+Build and evaluate machine learning models.

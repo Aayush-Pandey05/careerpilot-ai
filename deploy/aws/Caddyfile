@@ -1,0 +1,10 @@
+{$API_DOMAIN} {
+    request_body {
+        max_size 22MB
+    }
+
+    reverse_proxy backend:8000 {
+        # Forward each agent event immediately to the browser.
+        flush_interval -1
+    }
+}
